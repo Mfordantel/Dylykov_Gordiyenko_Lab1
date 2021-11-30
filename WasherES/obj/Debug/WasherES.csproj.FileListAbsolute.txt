@@ -1,0 +1,36 @@
+C:\Users\mford\Desktop\ИС\Лабораторная 1\Новая папка\ExpSysFridges\obj\Debug\WasherES.csproj.AssemblyReference.cache
+C:\Users\mford\Desktop\ИС\Лабораторная 1\Новая папка\ExpSysFridges\obj\Debug\WasherES.csproj.SuggestedBindingRedirects.cache
+C:\Users\mford\Desktop\ИС\Лабораторная 1\Новая папка\ExpSysFridges\obj\Debug\WasherES.csproj.ResolveComReference.cache
+C:\Users\mford\Desktop\ИС\Лабораторная 1\Новая папка\ExpSysFridges\obj\Debug\ExpSysFridges.Properties.Resources.resources
+C:\Users\mford\Desktop\ИС\Лабораторная 1\Новая папка\ExpSysFridges\obj\Debug\WasherES.csproj.GenerateResource.cache
+C:\Users\mford\Desktop\ИС\Лабораторная 1\Новая папка\ExpSysFridges\obj\Debug\WasherES.csproj.CoreCompileInputs.cache
+C:\Users\mford\Desktop\ИС\Лабораторная 1\Новая папка\ExpSysFridges\obj\Debug\ExpSysFridges.exe
+C:\Users\mford\Desktop\ИС\Лабораторная 1\Новая папка\ExpSysFridges\obj\Debug\ExpSysFridges.pdb
+C:\Users\mford\Desktop\ИС\Лабораторная 1\Новая папка\ExpSysFridges\bin\Debug\ExpSysFridges.exe.config
+C:\Users\mford\Desktop\ИС\Лабораторная 1\Новая папка\ExpSysFridges\bin\Debug\ExpSysFridges.exe
+C:\Users\mford\Desktop\ИС\Лабораторная 1\Новая папка\ExpSysFridges\bin\Debug\ExpSysFridges.pdb
+C:\Users\mford\Desktop\ИС\Лабораторная 1\Новая папка\ExpSysFridges\obj\Debug\ExpSysFridges.Form1.resources
+C:\Users\mford\Desktop\ИС\Лабораторная 1\Новая папка\WasherES\obj\Debug\WasherES.csproj.AssemblyReference.cache
+C:\Users\mford\Desktop\ИС\Лабораторная 1\Новая папка\WasherES\obj\Debug\WasherES.csproj.SuggestedBindingRedirects.cache
+C:\Users\mford\Desktop\ИС\Лабораторная 1\Новая папка\WasherES\obj\Debug\WasherES.csproj.ResolveComReference.cache
+C:\Users\mford\Desktop\ИС\Лабораторная 1\Новая папка\WasherES\obj\Debug\WasherES.Properties.Resources.resources
+C:\Users\mford\Desktop\ИС\Лабораторная 1\Новая папка\WasherES\obj\Debug\WasherES.csproj.GenerateResource.cache
+C:\Users\mford\Desktop\ИС\Лабораторная 1\Новая папка\WasherES\obj\Debug\WasherES.csproj.CoreCompileInputs.cache
+C:\Users\mford\Desktop\ИС\Лабораторная 1\Новая папка\WasherES\bin\Debug\WasherES.exe.config
+C:\Users\mford\Desktop\ИС\Лабораторная 1\Новая папка\WasherES\bin\Debug\WasherES.exe
+C:\Users\mford\Desktop\ИС\Лабораторная 1\Новая папка\WasherES\bin\Debug\WasherES.pdb
+C:\Users\mford\Desktop\ИС\Лабораторная 1\Новая папка\WasherES\obj\Debug\WasherES.exe
+C:\Users\mford\Desktop\ИС\Лабораторная 1\Новая папка\WasherES\obj\Debug\WasherES.pdb
+C:\Users\mford\Desktop\ИС\Лабораторная 1\Новая папка\WasherES\obj\Debug\WasherES.Form1.resources
+C:\Users\mford\Desktop\ИС\Лаб1\WasherES\bin\Debug\WasherES.exe.config
+C:\Users\mford\Desktop\ИС\Лаб1\WasherES\bin\Debug\WasherES.exe
+C:\Users\mford\Desktop\ИС\Лаб1\WasherES\bin\Debug\WasherES.pdb
+C:\Users\mford\Desktop\ИС\Лаб1\WasherES\obj\Debug\WasherES.csproj.AssemblyReference.cache
+C:\Users\mford\Desktop\ИС\Лаб1\WasherES\obj\Debug\WasherES.csproj.SuggestedBindingRedirects.cache
+C:\Users\mford\Desktop\ИС\Лаб1\WasherES\obj\Debug\WasherES.csproj.ResolveComReference.cache
+C:\Users\mford\Desktop\ИС\Лаб1\WasherES\obj\Debug\WasherES.Form1.resources
+C:\Users\mford\Desktop\ИС\Лаб1\WasherES\obj\Debug\WasherES.Properties.Resources.resources
+C:\Users\mford\Desktop\ИС\Лаб1\WasherES\obj\Debug\WasherES.csproj.GenerateResource.cache
+C:\Users\mford\Desktop\ИС\Лаб1\WasherES\obj\Debug\WasherES.csproj.CoreCompileInputs.cache
+C:\Users\mford\Desktop\ИС\Лаб1\WasherES\obj\Debug\WasherES.exe
+C:\Users\mford\Desktop\ИС\Лаб1\WasherES\obj\Debug\WasherES.pdb

@@ -1,0 +1,47 @@
+C:\Users\Тая\source\repos\ExpSysFridges\ExpSysFridges\bin\Debug\ExpSysFridges.exe.config
+C:\Users\Тая\source\repos\ExpSysFridges\ExpSysFridges\bin\Debug\ExpSysFridges.exe
+C:\Users\Тая\source\repos\ExpSysFridges\ExpSysFridges\bin\Debug\ExpSysFridges.pdb
+C:\Users\Тая\source\repos\ExpSysFridges\ExpSysFridges\obj\Debug\ExpSysFridges.csproj.AssemblyReference.cache
+C:\Users\Тая\source\repos\ExpSysFridges\ExpSysFridges\obj\Debug\ExpSysFridges.csproj.SuggestedBindingRedirects.cache
+C:\Users\Тая\source\repos\ExpSysFridges\ExpSysFridges\obj\Debug\ExpSysFridges.csproj.ResolveComReference.cache
+C:\Users\Тая\source\repos\ExpSysFridges\ExpSysFridges\obj\Debug\ExpSysFridges.Form1.resources
+C:\Users\Тая\source\repos\ExpSysFridges\ExpSysFridges\obj\Debug\ExpSysFridges.Properties.Resources.resources
+C:\Users\Тая\source\repos\ExpSysFridges\ExpSysFridges\obj\Debug\ExpSysFridges.csproj.GenerateResource.cache
+C:\Users\Тая\source\repos\ExpSysFridges\ExpSysFridges\obj\Debug\ExpSysFridges.csproj.CoreCompileInputs.cache
+C:\Users\Тая\source\repos\ExpSysFridges\ExpSysFridges\obj\Debug\ExpSysFridges.exe
+C:\Users\Тая\source\repos\ExpSysFridges\ExpSysFridges\obj\Debug\ExpSysFridges.pdb
+C:\SysExpLab\ExpSysFridges\bin\Debug\ExpSysFridges.exe.config
+C:\SysExpLab\ExpSysFridges\bin\Debug\ExpSysFridges.exe
+C:\SysExpLab\ExpSysFridges\bin\Debug\ExpSysFridges.pdb
+C:\SysExpLab\ExpSysFridges\obj\Debug\ExpSysFridges.csprojAssemblyReference.cache
+C:\SysExpLab\ExpSysFridges\obj\Debug\ExpSysFridges.csproj.ResolveComReference.cache
+C:\SysExpLab\ExpSysFridges\obj\Debug\ExpSysFridges.Form1.resources
+C:\SysExpLab\ExpSysFridges\obj\Debug\ExpSysFridges.Properties.Resources.resources
+C:\SysExpLab\ExpSysFridges\obj\Debug\ExpSysFridges.csproj.GenerateResource.cache
+C:\SysExpLab\ExpSysFridges\obj\Debug\ExpSysFridges.csproj.CoreCompileInputs.cache
+C:\SysExpLab\ExpSysFridges\obj\Debug\ExpSysFridges.exe
+C:\SysExpLab\ExpSysFridges\obj\Debug\ExpSysFridges.pdb
+C:\Users\mford\Desktop\Новая папка (3)\ExSistema-main\ExpSysFridges\bin\Debug\ExpSysFridges.exe.config
+C:\Users\mford\Desktop\Новая папка (3)\ExSistema-main\ExpSysFridges\bin\Debug\ExpSysFridges.exe
+C:\Users\mford\Desktop\Новая папка (3)\ExSistema-main\ExpSysFridges\bin\Debug\ExpSysFridges.pdb
+C:\Users\mford\Desktop\Новая папка (3)\ExSistema-main\ExpSysFridges\obj\Debug\ExpSysFridges.csproj.AssemblyReference.cache
+C:\Users\mford\Desktop\Новая папка (3)\ExSistema-main\ExpSysFridges\obj\Debug\ExpSysFridges.csproj.SuggestedBindingRedirects.cache
+C:\Users\mford\Desktop\Новая папка (3)\ExSistema-main\ExpSysFridges\obj\Debug\ExpSysFridges.csproj.ResolveComReference.cache
+C:\Users\mford\Desktop\Новая папка (3)\ExSistema-main\ExpSysFridges\obj\Debug\ExpSysFridges.Form1.resources
+C:\Users\mford\Desktop\Новая папка (3)\ExSistema-main\ExpSysFridges\obj\Debug\ExpSysFridges.Properties.Resources.resources
+C:\Users\mford\Desktop\Новая папка (3)\ExSistema-main\ExpSysFridges\obj\Debug\ExpSysFridges.csproj.GenerateResource.cache
+C:\Users\mford\Desktop\Новая папка (3)\ExSistema-main\ExpSysFridges\obj\Debug\ExpSysFridges.csproj.CoreCompileInputs.cache
+C:\Users\mford\Desktop\Новая папка (3)\ExSistema-main\ExpSysFridges\obj\Debug\ExpSysFridges.exe
+C:\Users\mford\Desktop\Новая папка (3)\ExSistema-main\ExpSysFridges\obj\Debug\ExpSysFridges.pdb
+C:\Users\mford\Desktop\ИС\Лабораторная 1\ExpSysFridges\obj\Debug\ExpSysFridges.csproj.AssemblyReference.cache
+C:\Users\mford\Desktop\ИС\Лабораторная 1\ExpSysFridges\obj\Debug\ExpSysFridges.csproj.SuggestedBindingRedirects.cache
+C:\Users\mford\Desktop\ИС\Лабораторная 1\ExpSysFridges\obj\Debug\ExpSysFridges.csproj.ResolveComReference.cache
+C:\Users\mford\Desktop\ИС\Лабораторная 1\ExpSysFridges\obj\Debug\ExpSysFridges.Properties.Resources.resources
+C:\Users\mford\Desktop\ИС\Лабораторная 1\ExpSysFridges\obj\Debug\ExpSysFridges.csproj.GenerateResource.cache
+C:\Users\mford\Desktop\ИС\Лабораторная 1\ExpSysFridges\obj\Debug\ExpSysFridges.csproj.CoreCompileInputs.cache
+C:\Users\mford\Desktop\ИС\Лабораторная 1\ExpSysFridges\obj\Debug\ExpSysFridges.exe
+C:\Users\mford\Desktop\ИС\Лабораторная 1\ExpSysFridges\obj\Debug\ExpSysFridges.pdb
+C:\Users\mford\Desktop\ИС\Лабораторная 1\ExpSysFridges\obj\Debug\ExpSysFridges.Form1.resources
+C:\Users\mford\Desktop\ИС\Лабораторная 1\ExpSysFridges\bin\Debug\ExpSysFridges.exe.config
+C:\Users\mford\Desktop\ИС\Лабораторная 1\ExpSysFridges\bin\Debug\ExpSysFridges.exe
+C:\Users\mford\Desktop\ИС\Лабораторная 1\ExpSysFridges\bin\Debug\ExpSysFridges.pdb
